@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ThePirateBay/CrawlerTest/bin/Debug
+/ThePirateBay/CrawlerTest/obj/Debug
+/ThePirateBay/packages/HtmlAgilityPack.1.4.6
+/ThePirateBay/ThePirateBay/bin/Debug
+/ThePirateBay/ThePirateBay/obj/Debug
