@@ -3,11 +3,13 @@ ThePirateSharp
 
 ThePirateSharp is a .NET API to make torrent searches in The Pirate Bay website.
 
-## Download
+### Download
 
-You can clone this repository or download to your Visual Studio project via [NuGet](https://www.nuget.org/packages/thepiratesharp/):
+You can clone this repository or download the static files in the [Releases](https://github.com/ggondim/thepiratesharp/releases/latest)
+
+You may also download to your Visual Studio web project via [NuGet](https://www.nuget.org/packages/thepiratesharp/):
 ```
-install-package ThePirateSharp
+install-package thepiratesharp
 ```
 
 ## How to use
